@@ -9,3 +9,5 @@ accountPassword = "56789"
 accountCity = "japan"
 console.log(account_Id);
 console.table([accountEmail, accountPassword, accountCity])
+
+{ is called scop}
